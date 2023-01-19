@@ -12,12 +12,14 @@ Graphic card: AMD Radeon RX 5700 XT
 
 NIC: intel I211 (not perfact, some times will disconnect.)
 
-Wifi: replace with BRCM943602 (fenvi)
+Wifi: replaced with BRCM943602 (fenvi)
 
 SSD1: HS-C2000Pro 512G
 
 SSD2: Lexar NM700 512G
 
-SSD3: aigo P3000. 1T
+SSD3: aigo P3000  1T
 
-Adata xgp 2T has some compatible issue. removed from my hackintosh.
+Note: 
+
+   Adata xgp 2T has some compatible issue. removed from my hackintosh.
