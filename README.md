@@ -1,5 +1,5 @@
 # amd3900x_x570_efi
-amd3900x gigabyte x570 hackingto efi files
+amd3900x gigabyte x570 hackingtosh efi files
 # working
 
 CPU: AMD Ryzen 9 3900X 12-Core 
