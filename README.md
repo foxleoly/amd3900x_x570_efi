@@ -14,9 +14,9 @@ NIC: intel I211 (not perfact, some times will disconnect.)
 
 Wifi: replaced with BRCM943602 (fenvi)
 
-SSD1: HS-C2000Pro 512G
+SSD1: KIOXIA-EXECERIA Pro 1T
 
-SSD2: Lexar NM700 512G
+SSD2: HS-C2000Pro 512G
 
 SSD3: aigo P3000  1T
 
